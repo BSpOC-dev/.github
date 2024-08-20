@@ -1,4 +1,4 @@
-# Brazilian Space Operations Center - Projects
+# Brazilian Space Operations Center
 
 Tools for Satellite Operations and Space Situational Awareness (SSA).
 
