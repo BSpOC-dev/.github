@@ -1,12 +1,10 @@
 # Brazilian Space Operations Center - Projects
 
-
+Tools for space operations and SSA.
 
 ## Technologies
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
-![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python--blue?logo=python&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C--blue.svg?logo=c-in-hexagon&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B--blue?logo=C%2B%2B&logoColor=white)
+![Cython](https://custom-icon-badges.herokuapp.com/badge/Cython--blue.svg?logo=cython&logoColor=white)
+![Java](https://img.shields.io/badge/Java--blue?logo=Java&logoColor=white)
