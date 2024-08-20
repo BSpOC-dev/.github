@@ -1,6 +1,8 @@
 # Brazilian Space Operations Center - Projects
 
-Tools for space operations and SSA.
+Tools for Satellite Operations and Space Situational Awareness (SSA).
+
+For now, all repos are private.
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python--blue?logo=python&logoColor=white)
