@@ -1,6 +1,6 @@
 # Brazilian Space Operations Center - Projects
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=RafaelLuz&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
+
 
 ## Technologies
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
